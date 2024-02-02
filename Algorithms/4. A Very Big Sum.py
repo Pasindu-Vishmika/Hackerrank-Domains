@@ -14,7 +14,7 @@ import sys
 #
 
 def aVeryBigSum(ar):
-    total = 0;
+    total = 0
     for i in ar:
         total+=i
     return total
