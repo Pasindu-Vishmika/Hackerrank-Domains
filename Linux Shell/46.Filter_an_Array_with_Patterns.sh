@@ -1,3 +1,5 @@
+#!/bin/bash
+
 readarray -t arr
 arr2=()
 for i in "${arr[@]}"; do
